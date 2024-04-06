@@ -1,4 +1,4 @@
-prettierrc{
+{
     "printWidth": 80,
     "useTabs": false,
     "semi": true,
@@ -8,3 +8,4 @@ prettierrc{
     "arrowParens": "avoid",
     "proseWrap": "always"
   }
+  
